@@ -1243,7 +1243,7 @@
     "d3-array": "2.12.1",
     "d3-brush": "^3.0.0",
     "d3-interpolate": "^3.0.1",
-    "d3-scale": "^3.3.0",
+    "d3-scale": "^4.0.0",
     "d3-selection": "^3.0.0",
     "d3-transition": "^3.0.1",
     "dedent": "^0.7.0",
